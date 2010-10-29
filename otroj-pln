@@ -1,0 +1,12 @@
+VERSION 1.0
+BOX -1 -1 1 1
+POLYGON
+  RING
+    FCOLOR 0 0 0
+    LINE
+	0 -1.25
+	-1.0825 0.625
+	1.0825 0.625
+    END
+  END
+END

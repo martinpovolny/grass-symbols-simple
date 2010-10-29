@@ -1,0 +1,8 @@
+VERSION 1.0
+BOX -1 -1 1 1
+POLYGON
+  RING
+    FCOLOR 1 1 1
+    ARC 0 0 1 360 0 C
+  END
+END

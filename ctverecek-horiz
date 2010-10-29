@@ -1,0 +1,19 @@
+VERSION 1.0
+BOX -1 -1 1 1
+POLYGON
+  RING
+    FCOLOR NONE
+    LINE
+      -1 -1
+      -1 1
+      1  1
+      1 -1
+    END
+  END
+  STRING
+    LINE
+      -1 0
+      1 0
+    END
+  END
+END
